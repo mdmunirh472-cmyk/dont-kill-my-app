@@ -1,4 +1,4 @@
----
+minir---
 manufacturer:
     - general
 ---
